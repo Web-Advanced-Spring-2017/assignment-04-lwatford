@@ -24,7 +24,7 @@ About the site
 ![alt text](http://url/to/imagefour)
 The form for adoptees to fill out. The design is similar for the other two forms. 
 ![alt text](http://url/to/imagefive)
-Modal to thank the user for using the site and what will happen going forward.
+Modal to thank the user for using the site and what will happen going forward. I attemted to get node mailer working but am not sure about username and password. 
 ![alt text](http://url/to/imagesix)
 
 ## challenges
@@ -32,4 +32,10 @@ Understanding firesbase and seeing how simple it can be if you know what you are
 
 After working on this project, I understand developers stick to code and why designers stick to design. Its a challenge
 making a useful functioning site that serves a purpose. I spent a lot of my time reading and watching tutorials in order tp get small things work like setting up the varialbe of the items. Then figure out how to get the number of user would be represented on the main page. 
+
+## reference
+https://www.youtube.com/watch?v=3WTQZV5-roY
+https://github.com/nodemailer/nodemailer
+
+
 
