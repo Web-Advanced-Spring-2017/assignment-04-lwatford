@@ -1,0 +1,9 @@
+{
+    "to" : "eOMdyc9vKWg:APA91bFxZXBi2uK4_x51WmsNQbfRwpUSNwEFxVug8DV6EZLf1kpzHuZtqY_TXKDH9b-fhl3YH-ILFjaNjrabsowdUdP7O7sgLtiGSq9dhNr6mO3mm71xauLt5FEGD6BFwmFyQHlxuPpi",
+    "notification" : {
+      "body" : "great match!",
+      "title" : "Adoptee Site"
+    }
+  }
+
+curl 'https://adopt-final.firebaseio.com/adoptees.json'
