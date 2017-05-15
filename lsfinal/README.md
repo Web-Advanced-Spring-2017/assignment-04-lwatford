@@ -9,26 +9,26 @@ Who would contributes to this database?
 • Birthparent, siblings, or extended family member of an adoptee 
 • Adoption agency 
 
-They would provide the requested information and if there is a match of information for an adoptee they would be notified via email.
+An individual from each category would provide the requested information and if there is a match of information. The adoptee  would be notified via email.
 
 For privacy purposes only the Adoptee can choose to reach out to the individual who has provided the information. 
 
 ## about the project
 This is an overview of the project 
-![alt text](http://url/to/imageone)
+![alt text](http://url/images/imageone)
 This is a picture of the databas with a significant ID for each user. This ascts as a timestamp to the database
-![alt text](http://url/to/imagetwo)
+![alt text](http://url/images/imagetwo)
 This is an image of the landing page, design to draw the users attention it uses socket.io each user adds a new line to the site. Going forward I would modify this so that if you are revisiting the site you will not add a line. This I will consider for further iterations.
-![alt text](http://url/to/imagethree)
+![alt text](http://url/images/imagethree)
 About the site
-![alt text](http://url/to/imagefour)
+![alt text](http://url/images/imagefour)
 The form for adoptees to fill out. The design is similar for the other two forms. 
 ![alt text](http://url/to/imagefive)
 Modal to thank the user for using the site and what will happen going forward.
-![alt text](http://url/to/imagesix)
+![alt text](http://url/images/imagesix)
 
 ## challenges
 Understanding firesbase and seeing how simple it can be if you know what you are looking for. 
 
 After working on this project, I understand developers stick to code and why designers stick to design. Its a challenge
-making a useful functioning site that serves a purpose. I spent a lot of my time reading and watching tutorials in order tp get small things work like setting up the varialbe of the items. Then figure out how to get the number of user would be represented on the main page. 
+making a useful functioning site that serves a purpose. I spent a lot of my time reading and watching tutorials in order to get small things working. For example like setting up the varialbe of the items. Then figure out how to get the number of user would be represented on the main page. 
